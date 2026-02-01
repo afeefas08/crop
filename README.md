@@ -6,6 +6,7 @@ The **Smart Crop Recommendation System** is a machine learning–based applicati
 
 This project aims to improve crop yield, reduce unnecessary fertilizer usage, and promote sustainable farming practices.
 
+🔗 **Live Demo:** https://smart-crop-recommendation-s.streamlit.app/
 ---
 
 ## 🎯 Objectives
